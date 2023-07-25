@@ -7,4 +7,6 @@ presentation at the Wilson Center think tank in Washington, DC, in Dec. 2022.
 
 Initially, I found myself manually typing out comments made by the panelists, but since the video is approximately 3 hours long, I decided this was not
 logical. I googled and found https://github.com/jdepoix/youtube-transcript-api, which was my initial starting point, but tweaked the code so that 
-timestamps also appeared every 30 seconds in the transcript that is produced.
+timestamps also appeared every 30 seconds in the transcript that is produced. 
+
+The final transcript can be seen in the attached file "transcript_with_timestamps.txt".
