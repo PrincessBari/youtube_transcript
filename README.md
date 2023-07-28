@@ -1,5 +1,4 @@
-# youtube_transcript
-Producing transcript of youtube video
+# Producing a transcript of a youtube video
 
 I'm currently working on an article about intergenerational trauma in Korea due to various episodes occurring throughout history.
 One of the various sources I refer to in my piece is the "U.S.-Korea Relations: Retrospective on the Jeju April 3 Incident, Human Rights, and Alliance"
